@@ -11,7 +11,7 @@ I'm a Cloud Engineer who is looking to start her career as an entry-level cloud 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Linux, Git and Bash Script.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1BqSuThwOgOnlfha7M6V2zyN_q632ch5-/view?usp=sharing) and contact me by emailing mailtodetolaadeya@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1BqSuThwOgOnlfha7M6V2zyN_q632ch5-/view?usp=sharing) and contact me by emailing detolaadeya@gmail.com.
 
 ---
 
